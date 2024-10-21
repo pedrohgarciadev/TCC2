@@ -44,22 +44,18 @@ main > nav > ul > li {
   margin: 30px;
 }
 
-a {
-  text-decoration: none;
-  color: black;
-}
 
-a#desmatamento:hover {
-  text-decoration: underline;
+a#desmatamento {
+  text-decoration: none;
   color: darkred;
 }
 
-a#co2:hover {
-  text-decoration: underline;
+a#co2 {
+  text-decoration: none;
   color: rgb(134, 134, 134);
 }
 
-a#agua:hover {
-  text-decoration: underline;
+a#agua {
+  text-decoration: none;
   color: rgb(5, 170, 170);
 }
